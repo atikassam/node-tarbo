@@ -1,4 +1,5 @@
-# A simple NodeJS backend
+## This documentation is still in progress
+# A simple NodeJS backend 
 
 Repetitive work is always boring. Some time creating router, controller, service, and even repo are very 
 repetitive in many project like in small MVP, where often we need just basic CURD API for a specific entity. 
@@ -16,7 +17,7 @@ Focus of this project is to create a solution to avoid these repetitive work.
 
 # Project structure
 
-```json
+```
 | - node_modules
 | - dest
 | - src
