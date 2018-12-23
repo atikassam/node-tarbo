@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "outDir": "./dest",
+    "target": "es6",
+    "module": "commonjs",
+    "baseUrl": "./src",
+    "rootDir": "./src",
+    "experimentalDecorators": true,
+    "paths": {
+      "@app/env": [
+        "environments/environment"
+      ],
+      "@lib/*": [
+        "lib/*"
+      ],
+      "@util/*": [
+        "lib/util/*"
+      ],
+      "@models/*": [
+        "models/*"
+      ]
+    }
+  }
+}
